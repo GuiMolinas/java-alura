@@ -17,6 +17,8 @@ public class Coversão {
 		double total = valor1 + valor2;
 		
 		System.out.println(total);
+		
+		float pontoFlutuante = (float) 3.14;
 
 	}
 
